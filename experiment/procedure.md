@@ -41,7 +41,7 @@ No: of fringes, N =.....
 
 Distance moved for N fringes, d =...... cm.
 
-$$\lambda =\frac{2d}{N}................(2)$$
+$$\lambda =\frac{2d}{N}$$
 
 ## Result
  
