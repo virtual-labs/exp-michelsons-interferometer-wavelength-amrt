@@ -55,7 +55,37 @@ $m=0,1,2,....$
 
 For a given mirror separation d, a given wavelength $\lambda$, and order m, the angle of inclination $\theta$¸  is a constant, and the fringes are circular. They are called fringes of equal inclination, or Haidinger fringes. If $M_{1}'$ coincides with $M_{2}$, d = 0, and the path difference between the interfering beams will be $\lambda/2$. This corresponds to destructive interference, so the center of the field will be dark.
 
+If one of the mirrors is moved through a distance $\lambda/4$, the path difference changes by $\lambda/2$ and a maximum is obtained. If the mirror is moved through another $\lambda/4$, a minimum is obtained; moving it by another $\lambda/4$, again a maximum is obtained and so on. Because d is multiplied by $\cos \theta$, as d increases, new rings appear in the center faster than the rings already present at the periphery disappear, and the field becomes more crowded with thinner rings toward the outside. If d decreases, the rings contract, become wider and more sparsely distributed, and disappear at the center.
 
+For destructive interference, the total path difference must be an integer number of wavelengths plus a half wavelength, 
+
+$$\Delta_{destr} =2d \cos \theta+\frac{\lambda}{2}=(m+\frac{1}{2})\lambda$$
+
+m=0,1,2,3, ...
+
+If the images $S_{1}$ and $S_{2}$ from the two mirrors are exactly the same distance away, d=0 and there is no dependance on $\lambda$. This means that only one fringe is visible, the zero order destructive interfrence fringe, where
+$$\Delta_{destr} =\frac{\lambda}{2}=(m+\frac{1}{2})\lambda$$
+
+m=0.
+
+and the observer sees a single, large, central dark spot with no surrounding rings.
+
+### Measurement of wavelength
+
+Using the Michelson interferometer, the wavelength of light from a monochromatic source can be determined. If $M_{1}$ is moved forward or backward, circular fringes appear or disappear at the centre. The mirror is moved through a known distance d and the number N of fringes appearing or disappearing at the centre is counted. For one fringe to appear or disappear, the mirror must be moved through a distance of $\lambda/2$. Knowing this, we can write,
+
+$$d =\frac{N\lambda}{2}$$
+
+so that the wavelength is,    
+
+$$\lambda =\frac{2d}{N}................(2)$$
+
+
+### Applications
+ 
+1. The Michelson - Morley experiment is the best known application of Michelson Interferometer.
+2. They are used for the detection of gravitational waves.
+3. Michelson Interferometers are widely used in astronomical Interferometry. 
 
 
 
