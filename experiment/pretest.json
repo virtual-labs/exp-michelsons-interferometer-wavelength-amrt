@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The modification of the distribution of light energy due to the superposition of two or more waves is called?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Interference",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In optics, waves having a single frequency and wavelength are said to be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Transverse waves",
+        "b": "Composite waves",
+        "c": "Monochromatic waves",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During interference, is the total energy conserved or not?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Conserved for constructive interference",
+        "d": "Partly conserved"
+      },
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
