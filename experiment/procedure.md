@@ -28,6 +28,9 @@
 - The **Show results** button displays the results after doing the experiment.
 - The experiment can be repeated for different laser sources and for glass plates of different thickness.
 
+![michelson calc 1](https://github.com/user-attachments/assets/5060c58b-3c19-4be3-8355-7b89c0b8a957)
+
+
 ### Observations and calculations
 
 Least Count = ..... cm
@@ -37,3 +40,12 @@ Calibration constant of the apparatus= .....
 No: of fringes, N =.....
 
 Distance moved for N fringes, d =...... cm.
+
+$$\lambda =\frac{2d}{N}................(2)$$
+
+## Result
+ 
+
+ The wavelength of the given laser source = .......... nm.
+
+ 
