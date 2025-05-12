@@ -14,19 +14,38 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which optical component in a Michelson interferometer splits the incoming light into two beams?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Compensating plate",
+        "b": "Beam splitter",
+        "c": "Laser source",
+        "d": "Screen"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For constructive interference to occur in a Michelson interferometer, the path difference must be:",
+      "answers": {
+        "a": "An odd multiple of λ/2",
+        "b": "An integral multiple of λ",
+        "c": "Equal to the length of one arm",
+        "d": "A fraction of the speed of light"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following leads to the formation of a dark fringe in the interference pattern?",
+      "answers": {
+        "a": "Path difference is mλ",
+        "b": "Path difference is zero",
+        "c": "Path difference is (m + ½)λ",
+        "d": "No path difference at all"
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
