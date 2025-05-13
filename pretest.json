@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The modification of the distribution of light energy due to the superposition of two or more waves is called?",
+      "answers": {
+        "a": "Interference",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In optics, waves having a single frequency and wavelength are said to be",
+      "answers": {
+        "a": "Transverse waves",
+        "b": "Composite waves",
+        "c": "Monochromatic waves",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During interference, is the total energy conserved or not?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Conserved for constructive interference",
+        "d": "Partly conserved"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
