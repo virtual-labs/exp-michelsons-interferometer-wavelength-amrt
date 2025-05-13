@@ -1,1 +1,1 @@
-## Experiment name
+## Michelson's Interferometer- Wavelength of laser beam
