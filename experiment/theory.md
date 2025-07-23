@@ -63,7 +63,7 @@ $$\Delta_{destr} =2d \cos \theta+\frac{\lambda}{2}=(m+\frac{1}{2})\lambda$$
 
 m=0,1,2,3, ...
 
-If the images $S_{1}$ and $S_{2}$ from the two mirrors are exactly the same distance away, d=0 and there is no dependance on $\lambda$. This means that only one fringe is visible, the zero order destructive interfrence fringe, where
+If the images $S_{1}$ and $S_{2}$ from the two mirrors are exactly the same distance away, d=0 and there is no dependence on $\lambda$. This means that only one fringe is visible, the zero order destructive interference fringe, where
 $$\Delta_{destr} =\frac{\lambda}{2}=(m+\frac{1}{2})\lambda$$
 
 m=0.
