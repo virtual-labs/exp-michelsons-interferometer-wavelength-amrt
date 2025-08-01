@@ -1,0 +1,89 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The modification of the distribution of light energy due to the superposition of two or more waves is called?",
+      "answers": {
+        "a": "Interference",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In optics, waves having a single frequency and wavelength are said to be",
+      "answers": {
+        "a": "Transverse waves",
+        "b": "Composite waves",
+        "c": "Monochromatic waves",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During interference, is the total energy conserved or not?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Conserved for constructive interference",
+        "d": "Partly conserved"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The phenomenon of interference is shown",
+      "answers": {
+        "a": "By transverse waves only.",
+        "b": "By longitudinal waves only.",
+        "c": "By both longitudinal and transverse waves.",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which optical component in a Michelson interferometer splits the incoming light into two beams?",
+      "answers": {
+        "a": "Compensating plate",
+        "b": "Beam splitter",
+        "c": "Laser source",
+        "d": "Screen"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For constructive interference to occur in a Michelson interferometer, the path difference must be:",
+      "answers": {
+        "a": "An odd multiple of λ/2",
+        "b": "An integral multiple of λ",
+        "c": "Equal to the length of one arm",
+        "d": "A fraction of the speed of light"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following leads to the formation of a dark fringe in the interference pattern?",
+      "answers": {
+        "a": "Path difference is mλ",
+        "b": "Path difference is zero",
+        "c": "Path difference is (m + ½)λ",
+        "d": "No path difference at all"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
